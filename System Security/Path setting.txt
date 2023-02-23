@@ -7,14 +7,14 @@ Path Setting
 	 --Temperory
 	 
 	 
-	 --We can set it Permenantly by :
+	 --Permenant:
 	 	 * export PATH "$PATH:/--location of the file which we need to execute it in any of the directories--"
 	 	 * this is the syntax of path setting,this line of code should be added to the .bashrc file .
 	 	 
 		example:
 			export PATH="$PATH:/home/Pranav/.bin"
 		
-	  --We can set it temporary by:
+	  --Temporary:
 	  	* set PATH "--location of the file which we need to execute it in any of the directories--"
 	  	* this can be typed in any part of the terminal and this path setting will be there until we are closing the terminal
 	  	
